@@ -1,0 +1,40 @@
+* ::before,
+::after {
+	margin: 0;
+	padding: auto;
+}
+/*body {
+	margin: 1em;
+}
+*/
+#userList {
+	margin-left: 2em;
+	margin-right: 2em;
+}
+
+.table {
+	width: 75%;
+}
+
+#userInfo {
+	margin-left: 2em;
+	margin-right: 2em;
+}
+
+.footer {
+	text-align: center;
+	background: rgb(44, 114, 175);
+	color: beige;
+	font-size: 1em;
+	padding-top: 2em;
+	width: 100%;
+	height: 80px;
+	margin: 0;
+}
+#forward-content {
+	align-items: center;
+	background: rgb(104, 20, 20);
+	color: azure;
+	padding: 2em;
+	margin-bottom: 1em;
+}
